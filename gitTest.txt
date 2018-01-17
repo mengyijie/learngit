@@ -1,1 +1,2 @@
-my git test
+my git testgit is a distributed vesion control system
+git is free sofware distributed under the GPL
